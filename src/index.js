@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 
 const books = [
   {
-    id: 1,
+    id: 10,
     image:
       "https://images-na.ssl-images-amazon.com/images/I/81fyoFoaxlL._AC_UL254_SR254,254_.jpg",
     title: "Dog Man: Twenty Thousand Fleas Under the Sea: A Graphic Novel",
